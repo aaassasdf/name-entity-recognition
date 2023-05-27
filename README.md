@@ -37,7 +37,7 @@ In bionlp2004-ner.py, it picks the 3rd row of test data for demonstration. You c
 ner_model, tokenizer and bionlp2004_ner should be created in the directory after you run the code.
 They correspond to fine-tuned model, BertTokenizerFast, and TrainingArgument.
 
-# requirements
+# Requirements
 the code was run in Python 3.9 virtual environment
 
 RTX 2060 is used to accelerate the training process.
